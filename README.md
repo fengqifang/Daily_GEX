@@ -20,3 +20,5 @@ GEX Daily Profile
 | 2023/01/30 | [4015-4075] | [4020-4075] | 4049.27 | 4063.85 | 4015.55 | 4017.76 | Yes (No) | <a href="https://fengqifang.github.io/Daily_GEX/0130_GEX.html" title="2023/01/30">2023/01/30</a> |
 
 [![Daily Profile](https://docs.google.com/spreadsheets/d/e/2PACX-1vRlRki8HpwZlbCI7vfOeuZ7ZU3HtZ4uJnjzR7VJajyDfT-n16PHx3VnULHxjthktbmeq61sFo3FWAYV/pubchart?oid=1733912176&format=interactive)]()
+
+[![Daily Profile]()]([https://youtu.be/vt5fpE0bzSY](https://docs.google.com/spreadsheets/d/e/2PACX-1vRlRki8HpwZlbCI7vfOeuZ7ZU3HtZ4uJnjzR7VJajyDfT-n16PHx3VnULHxjthktbmeq61sFo3FWAYV/pubchart?oid=1733912176&format=interactive))
