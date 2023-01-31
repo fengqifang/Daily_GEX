@@ -11,8 +11,8 @@ GEX Daily Profile
 
 ## Summary
 
-| Date | GEX Range (Whole Day) | GEX Range (Before 12:00PM) | Open | High | Low | Closed | HIT？| Profile Details |
-|---|---|---|---|---|---|
+| Date | GEX Range (Whole Day) | GEX Range (<12:00PM) | Open | High | Low | Closed | HIT？| Profile Details |
+|---|---|---|---|---|---|---|---|---|
 | 2023/01/24 | [3970-4030] | [3970-4020] | 4001.74 | 4023.92 | 3989.79 | 4016.94 | Yes (Yes) | <a href="https://fengqifang.github.io/Daily_GEX/0124_GEX.html" title="2023/01/24">2023/01/24</a> |
 | 2023/01/25 | [3950-4020] | [3950-4000] | 3982.71 | 4019.55 | 3949.06 | 4016.22 | Yes (No)  | <a href="https://fengqifang.github.io/Daily_GEX/0125_GEX.html" title="2023/01/25">2023/01/25</a>|
 | 2023/01/26 | [4000-4100] | [4000-4100] | 4036.08 | 4061.57 | 4013.29 | 4060.43 | Yes (Yes) | <a href="https://fengqifang.github.io/Daily_GEX/0126_GEX.html" title="2023/01/26">2023/01/26</a> |
