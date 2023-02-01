@@ -19,5 +19,6 @@ GEX Daily Profile
 | 2023/01/27 | [4000-4100] | [4000-4100] | 4053.72 | 4094.21 | 4048.70 | 4070.56 | Yes (Yes) | <a href="https://fengqifang.github.io/Daily_GEX/0127_GEX.html" title="2023/01/27">2023/01/27</a> |
 | 2023/01/30 | [4015-4075] | [4020-4075] | 4049.27 | 4063.85 | 4015.55 | 4017.76 | Yes (No) | <a href="https://fengqifang.github.io/Daily_GEX/0130_GEX.html" title="2023/01/30">2023/01/30</a> |
 | 2023/01/31 | [4000-4072] | [4000-4050] | 4020.85 | 4077.16 | 4020.44 | 4076.60 | No (No) | <a href="https://fengqifang.github.io/Daily_GEX/0131_GEX.html" title="2023/01/30">2023/01/31</a> |
+| 2023/02/01 | [4000-4150] | [4000-4100] | 4070.07 | 4148.95 | 4037.20 | 4119.21 | Yes (No) | <a href="https://fengqifang.github.io/Daily_GEX/0201_GEX.html" title="2023/02/01">2023/02/01</a> |
 
 <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRlRki8HpwZlbCI7vfOeuZ7ZU3HtZ4uJnjzR7VJajyDfT-n16PHx3VnULHxjthktbmeq61sFo3FWAYV/pubchart?oid=1733912176&format=interactive" title="GEX Profile Live">GEX Profile Live</a>
