@@ -24,5 +24,11 @@ GEX Daily Profile
 | 2023/02/03 | [4100-4200] | [4100-4200] | 4136.69 | 4182.36 | 4123.36 | 4136.48 | Yes (Yes) | <a href="https://fengqifang.github.io/Daily_GEX/0203_GEX.html" title="2023/02/03">2023/02/03</a> |
 | 2023/02/06 | [4100-4150] | [4100-4150] | 4119.57 | 4124.63 | 4093.38 | 4111.08 | Yes (Yes) | <a href="https://fengqifang.github.io/Daily_GEX/0206_GEX.html" title="2023/02/06">2023/02/06</a> |
 | 2023/02/09 | [4078-4150] | [4100-4150] | 4144.25 | 4156.23 | 4069.67 | 4081.59 | Yes (No) | <a href="https://fengqifang.github.io/Daily_GEX/0209_GEX.html" title="2023/02/09">2023/02/09</a> |
+| 2023/02/10 | [4078-4150] | [4100-4150] | 4144.25 | 4156.23 | 4069.67 | 4081.59 | Yes (No) | <a href="https://fengqifang.github.io/Daily_GEX/0210_GEX.html" title="2023/02/10">2023/02/10</a> |
+| 2023/02/13 | [4078-4150] | [4100-4150] | 4144.25 | 4156.23 | 4069.67 | 4081.59 | Yes (No) | <a href="https://fengqifang.github.io/Daily_GEX/0213_GEX.html" title="2023/02/13">2023/02/13</a> |
+| 2023/02/14 | [4078-4150] | [4100-4150] | 4144.25 | 4156.23 | 4069.67 | 4081.59 | Yes (No) | <a href="https://fengqifang.github.io/Daily_GEX/0214_GEX.html" title="2023/02/14">2023/02/14</a> |
+| 2023/02/15 | [4078-4150] | [4100-4150] | 4144.25 | 4156.23 | 4069.67 | 4081.59 | Yes (No) | <a href="https://fengqifang.github.io/Daily_GEX/0215_GEX.html" title="2023/02/15">2023/02/15</a> |
+| 2023/02/16 | [4078-4150] | [4100-4150] | 4144.25 | 4156.23 | 4069.67 | 4081.59 | Yes (No) | <a href="https://fengqifang.github.io/Daily_GEX/0216_GEX.html" title="2023/02/16">2023/02/16</a> |
+| 2023/02/17 | [4078-4150] | [4100-4150] | 4144.25 | 4156.23 | 4069.67 | 4081.59 | Yes (No) | <a href="https://fengqifang.github.io/Daily_GEX/0217_GEX.html" title="2023/02/17">2023/02/17</a> |
 
 <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRlRki8HpwZlbCI7vfOeuZ7ZU3HtZ4uJnjzR7VJajyDfT-n16PHx3VnULHxjthktbmeq61sFo3FWAYV/pubchart?oid=1733912176&format=interactive" title="GEX Profile Live">GEX Profile Live</a>
